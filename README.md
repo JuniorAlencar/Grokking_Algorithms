@@ -1,5 +1,5 @@
 # Entendendo algoritmos
-Este repositório estudará as implementações dos algoritmos descritos no livro: **Entendendo algoritmos: um guia ilustrado para programadores e outros curiosos**, de Aditya Y. Bhargava. Foi utilizada a primeira versão em português do Brasil publicada pela Novatec. Organizei cada capítulo em uma pasta diferente, com explicações sobre minhas interpretações dos capítulos.  
+Este repositório estudará as implementações dos algoritmos descritos no livro: **Entendendo algoritmos: um guia ilustrado para programadores e outros curiosos**, de Aditya Y. Bhargava. Foi utilizada a primeira versão em português do Brasil publicada pela Novatec. Organizei cada capítulo em uma pasta diferente, com explicações sobre minhas interpretações dos capítulos. Será utilizado a linguagem **C++**, com algumas analises visuais em **python**.  
 
 1. Introdução a Algoritmos
 2. Ordenação por Seleção
